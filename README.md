@@ -3,9 +3,9 @@ http://codekata.com/kata/kata09-back-to-the-checkout/
 
 ### Author: Tamir Mayblat (tamirmayb@gmail.com)
 
-### This solution uses ```Easy Rules``` which is a java based rule engine which takes a JSON file and converts it into applicable set of rules and provides Rule abstraction and matches the rules with actions that can be applied on our RegistryItems
+#### This solution uses ```Easy Rules``` which is a java based rule engine which takes a JSON file and converts it into applicable set of rules and provides Rule abstraction and matches the rules with actions that can be applied on our RegistryItems
 
-### Current configuration:
+#### Current configuration:
 ```
   Item   Unit      Special
          Price     Price
